@@ -29,3 +29,6 @@ A Node.js CLI word-guess game made possible with the use of js constructor funct
 3. `Letter.js` *should not* `require` any other files.
 
 4. `Word.js` *should only* require `Letter.js`
+
+* **DEMO**
+![](name-of-giphy.gif)
