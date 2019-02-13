@@ -30,5 +30,5 @@ A Node.js CLI word-guess game made possible with the use of js constructor funct
 
 4. `Word.js` *should only* require `Letter.js`
 
-* **DEMO**
+# DEMO
 ![](constructor-wordguess-demo-mkc.gif)
